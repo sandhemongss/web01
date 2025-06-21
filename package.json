@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-useragent": "^1.0.15",
+    "fs-extra": "^11.3.0",
+    "html-minifier-terser": "^7.2.0",
+    "nodemailer": "^7.0.3",
+    "request-ip": "^3.3.0",
+    "uglify-js": "^3.19.3"
+  },
+  "name": "v2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
